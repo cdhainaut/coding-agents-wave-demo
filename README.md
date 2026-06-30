@@ -1,4 +1,4 @@
-# Démo FEM — du papier au code
+# Démo agents de code — du papier au code
 
 Objectif : montrer un coding agent sur une mini-chaîne réaliste : lecture d'un extrait scientifique, extraction des hypothèses, planification du code, implémentation, tests et rapport.
 
@@ -22,17 +22,17 @@ Colonnes du CSV :
 
 ## Lancement OpenCode suggéré
 
+Depuis le répertoire de la démo.
+
 Option simple :
 
 ```bash
-cd demo_usecase
-opencode
+opencode .
 ```
 
 Option démo isolée, pour éviter que la config globale OpenCode pollue l'atelier :
 
 ```bash
-cd demo_usecase
 ./run-opencode-demo.sh
 ```
 
