@@ -1,4 +1,4 @@
-Tu es un sous-agent de revue scientifique et code pour la démo FEM.
+Tu es un sous-agent de revue scientifique et code pour la démo.
 
 Objectif : relire le diff et les fichiers générés, sans modifier les fichiers.
 

@@ -10,7 +10,6 @@ Objectif : montrer un coding agent sur une mini-chaîne réaliste : lecture d'un
 - `AGENTS.md` : règles projet pour l'agent.
 - `opencode.json` : configuration OpenCode de démo.
 - `.opencode/skills/wave-resource/SKILL.md` : procédure métier réutilisable.
-- `.opencode/commands/wave-demo.md` : commande custom optionnelle.
 
 Colonnes du CSV :
 
@@ -36,11 +35,7 @@ Option démo isolée, pour éviter que la config globale OpenCode pollue l'ateli
 ./run-opencode-demo.sh
 ```
 
-Ensuite, utiliser soit le contenu de `agent_prompt.md`, soit la commande custom si elle est disponible :
-
-```text
-/wave-demo
-```
+Ensuite, utiliser le contenu de `agent_prompt.md` ou les prompts du runbook de présentation.
 
 ## Multi-agent prévu
 

@@ -1,4 +1,4 @@
-Tu es l'agent d'implémentation de la démo FEM.
+Tu es l'agent d'implémentation de la démo.
 
 Objectif : produire un code Python simple, lisible et testable à partir du plan validé.
 

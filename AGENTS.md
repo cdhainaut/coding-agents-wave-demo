@@ -1,4 +1,4 @@
-# Projet : ressource houlomotrice FEM
+# Projet : ressource houlomotrice
 
 ## Contexte
 
