@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+.venv/
+venv/
+
+# Generated demo artifacts
+output/
+tests/
+wave_energy.py
+test_wave_energy.py
+
+# OpenCode runtime artifacts
+.demo-xdg/
+.opencode/node_modules/
+.opencode/package.json
+.opencode/package-lock.json
+.opencode/.gitignore
+
+# OS / editor
+.DS_Store
+*.swp
+*.tmp
